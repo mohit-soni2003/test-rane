@@ -10,7 +10,7 @@ module.exports = {
 
 
     // FRONTEND_ORIGIN_URL:"https://www.raneandsons.in",
-    FRONTEND_ORIGIN_URL: "https://rane-project-git-version3o-mohit-sonis-projects-6fb4d728.vercel.app",
+    FRONTEND_ORIGIN_URL: "https://test-rane-cl.vercel.app",
 
     MONGO_URL:"mongodb+srv://ranesons11:SEycv5RPk65Y1xOY@cluster0.et6jd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     // MAIL_PASS:"acby zvfn pury saoa",//rane
